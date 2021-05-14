@@ -1,8 +1,8 @@
 hhhh
 //
-//  AppDelegate.m     点点滴滴
-//  weathercast   我是垃圾
-// 行吗
+//  AppDelegate.m     
+//  weathercast   
+// 
 //  Created by 刘鹏 on 2019/6/26.
 //  Copyright © 2019 刘鹏. All rights reserved.
 //
@@ -10,7 +10,7 @@ hhhh
 #import "AppDelegate.h"
 #import "ViewController.h"
 
-@interface AppDelegate ()
+@interface AppDele   yyyyy
 
 @end
 
