@@ -13,7 +13,6 @@ hhhh
 @interface AppDele   yyyyy
 
 @end
-
 @implementation AppDelegate
 
 #pragma mark - Overridden (Life Cycle)
@@ -55,7 +54,7 @@ hhhh
     // If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
 }
 
-
+改为啥也不是
 - (void)applicationWillEnterForeground:(UIApplication *)application {
     // Called as part of the transition from the background to the active state; here you can undo many of the changes made on entering the background.
 }
